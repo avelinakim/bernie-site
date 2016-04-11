@@ -69,6 +69,27 @@ pre code.hljs {
   }
 }
 
+.navigation.has-cover {
+  min-height: 24rem;
+  color: $white;
+  text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
+  background-position: 50% 50%;
+  background-size: cover;
+  .title {
+    padding-top: 2em; 
+    font-size: modular-scale(6);
+    color: #fff;
+    text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
+    text-align: center;
+  }
+  .subtitle, .info {
+    font-size: modular-scale(1);
+    color: #fff;
+    text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
+    text-align: center;
+  }
+}
+
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
