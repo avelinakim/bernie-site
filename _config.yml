@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "/assets/Bernie-Header.jpg"
-logo: "/assets/Sanders-logo.svg"
+cover: "/assets/imgs/Bernie-Header.jpg"
+logo: "/assets/imgs/Sanders-logo.svg"
 
 # Build settings
 markdown: kramdown
@@ -134,24 +134,24 @@ officers:
   - name: Alfredo Gama
     position: President
     description: SMC for Bernie fb group
-    img: "/assets/profile-placeholder.gif"
+    img: "/assets/imgs/profile-placeholder.gif"
     
   - name: Avelina Kim
     position: Vice President
     description: SMC for Bernie fb group
-    img: "/assets/profile-placeholder.gif"
+    img: "/assets/imgs/avelina.jpg"
     
   - name: Daira Bustos
     position: Treasurer
     description: SMC for Bernie fb group
-    img: "/assets/profile-placeholder.gif"
+    img: "/assets/imgs/profile-placeholder.gif"
     
   - name: Leo Martinez
     position: Voter Registration Coordinator
     description: SMC for Bernie fb group
-    img: "/assets/profile-placeholder.gif"
+    img: "/assets/imgs/profile-placeholder.gif"
     
   - name: Stephanie Mendez
     position: Outreach Director
     description: SMC for Bernie fb group
-    img: "/assets/profile-placeholder.gif"
+    img: "/assets/imgs/profile-placeholder.gif"

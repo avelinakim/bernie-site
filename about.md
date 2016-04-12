@@ -50,7 +50,7 @@ You can find out more info about customizing your Jekyll theme, as well as basic
   <hr>
   
   <div class="about-section">
-     <img src="{{ site.baseurl }}/assets/Bernie 1st meeting.jpg" title="Profile Picture" class="profile">
+     <img src="{{ site.baseurl }}/assets/imgs/Bernie 1st meeting.jpg" title="first-meeting" class="image">
      <div class="content">
      <h1> About Us </h1>
      <p> What we do & why we do it. What we do & why we do it. What we do & why we do it. What we do & why we do it.</p>
@@ -62,7 +62,7 @@ You can find out more info about customizing your Jekyll theme, as well as basic
  <div class="about-section">
  <h1> Meet the Officers </h1>
  {% for officer in site.officers %}
- <div style="overflow: auto">
+ <div class="officer">
   <img src="{{ site.baseurl }}{{ officer.img }}" title="Profile Picture" class="profile">
   <div class="content">
       <h1 class="officer-title"> {{ officer.position }}: {{ officer.name }} </h1>
