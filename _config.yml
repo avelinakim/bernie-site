@@ -48,10 +48,10 @@ disqus_shortname: bencentra
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Upcoming
+  - cat: Upcoming Events
     desc: "Get out your calendar and prepare for our upcoming events!"
 
-  - cat: Past
+  - cat: Past Events
     desc: "Take a look at what we've done as a club."
 
 # Social icons and sharing options

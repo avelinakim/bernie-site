@@ -3,18 +3,13 @@ layout: page
 title: "Events"
 permalink: /events/
 ---
+
 <div class="event-container">
-{% for category in site.categories %}
   <div class="event-list">
-  {% capture cat %}{{ category | first }}{% endcapture %}
-  <h2>{{ cat | capitalize }}</h2>
-  {% for desc in site.descriptions %}
-    {% if desc.cat == cat %}
-      <p class="desc"><em>{{ desc.desc }}</em></p>
-    {% endif %}
-  {% endfor %}
+  <h2>Upcoming</h2>
+  <!--<p class="desc"><em>These are upcoming events</em></p>-->
   <ul class="event-post-list">
-  {% for post in site.categories[cat] %}
+  {% for post in site.categories.upcoming %}
     <li>
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -24,6 +19,19 @@ permalink: /events/
   {% endfor %}
   </ul>
   </div>
-{% endfor %}
+  
+  <div class="event-list">
+  <h2>Past</h2>
+      <!--<p class="desc"><em>These are past events</em></p>-->
+  <ul class="event-post-list">
+  {% for post in site.categories.past %}
+    <li>
+      <strong>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </strong>
+      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+    </li>
+  {% endfor %}
+  </ul>
+  </div>
 </div>
-
