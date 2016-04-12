@@ -216,6 +216,22 @@ pre code.hljs {
 *	Body
 */
 
+.event-container {
+  @include outer-container;
+}
+
+.event-list {
+  @include span-columns(6);
+  h2 {
+    text-align: center;
+  }
+}
+
+.event-post-list {
+  margin-left: 2.5em;
+  list-style-type: none; 
+}
+
 .officer-title {
   text-decoration: none;
   font-size: 1.5em;
