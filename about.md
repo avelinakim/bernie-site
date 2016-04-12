@@ -65,7 +65,8 @@ You can find out more info about customizing your Jekyll theme, as well as basic
  <div class="officer">
   <img src="{{ site.baseurl }}{{ officer.img }}" title="Profile Picture" class="profile">
   <div class="content">
-      <h1 class="officer-title"> {{ officer.position }}: {{ officer.name }} </h1>
+      <h1 class="officer-title"> {{ officer.name }} </h1>
+      <p class="officer-position"> {{ officer.position }} </p>
       <p>{{ officer.description }}</p>
   </div>
  </div>
