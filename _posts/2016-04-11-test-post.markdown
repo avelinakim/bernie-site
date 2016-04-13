@@ -3,7 +3,7 @@ layout: post
 title:  "Test Post"
 date:   2016-04-11 12:00:00PM
 author: SMC for Bernie Club
-categories: past
+categories: upcoming
 tags: lorem ipsum
 ---
 
