@@ -22,6 +22,7 @@ baseurl: "/bernie-site" # the subpath of your site, e.g. /blog/
 url: "http://avelinakim.github.io" # the base hostname & protocol for your site
 cover: "/assets/imgs/Bernie-Header.jpg"
 logo: "/assets/imgs/Sanders-logo.svg"
+permalink: "/:categories/:title/"
 
 # Build settings
 markdown: kramdown
