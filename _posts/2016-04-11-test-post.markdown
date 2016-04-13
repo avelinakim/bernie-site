@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Post"
-date:   2016-04-11 12:00:00PM
+date:   2017-04-11 12:00:00PM
 author: SMC for Bernie Club
 categories: upcoming
 tags: lorem ipsum
