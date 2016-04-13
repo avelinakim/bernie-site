@@ -13,4 +13,6 @@ Involvement includes meetings, events, and other club activity.
 If you are interested in getting a shirt please select 
 your size in [this straw poll][1]
 
+<img src="{{ site.baseurl }}/assets/imgs/bernie-shirt.png" title="Bernie shirts" class="image">
+
 [1]: http://strawpoll.me/7320966

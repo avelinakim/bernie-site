@@ -444,6 +444,14 @@ pre code.hljs {
 /*
 *	Footer
 */
+
+ .no-underline {
+    &:hover {
+    color: $action-color;
+    text-decoration: none;
+	  }
+}
+
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
