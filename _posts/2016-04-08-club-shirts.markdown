@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Club Shirts"
-event-date:   2016-04-12 08:43:59
+event-date:   2016-04-8 08:43:59
 author: SMC for Bernie Club
 categories: news
 ---

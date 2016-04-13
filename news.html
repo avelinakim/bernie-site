@@ -13,7 +13,7 @@ permalink: /news/
         <strong>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </strong>
-        <span class="post-date">- {{ post.event-date | date_to_long_string }}</span>
+        <span class="post-date">- {{ post.event-date |  date: "%B %-d" }}</span>
       </li>
       {% endfor %}
     </ul>

@@ -13,6 +13,14 @@ $desktop: $b1;
 /*
 *	Globals
 */
+
+.no-underline {
+   &:hover {
+   color: $action-color;
+   text-decoration: none;
+	 }
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -226,6 +234,7 @@ pre code.hljs {
 }
 
 .news-list-post {
+  font-size: 1.4em;
   list-style-type: none;
 }
 
@@ -244,6 +253,7 @@ pre code.hljs {
 }
 
 .event-post-list {
+  font-size: 1.35em;
   margin-left: 2.5em;
   list-style-type: none; 
 }
@@ -445,12 +455,6 @@ pre code.hljs {
 *	Footer
 */
 
- .no-underline {
-    &:hover {
-    color: $action-color;
-    text-decoration: none;
-	  }
-}
 
 .site-footer {
 	$link-color: $white;
