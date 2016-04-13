@@ -132,9 +132,9 @@ pre code.hljs {
 	box-shadow: 0 2px $highlight-color;
 	padding: 0 1em;
 	margin: 0;
-	/*
-	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
-	*/
+/*
+*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
+*/
   // Mobile view
   .navigation-menu-button {
     display: block;
@@ -224,11 +224,12 @@ pre code.hljs {
 *	Body
 */
 
-.officer {
-  overflow: auto;
-  margin-bottom: 2em;
+//My Posts
+.post-info {
+  font-size: 1.2em;
+  line-height: 120%;
+  padding-bottom: 1em;
 }
-
 .news-container {
   text-align: center;
 }
@@ -256,6 +257,13 @@ pre code.hljs {
   font-size: 1.35em;
   margin-left: 2.5em;
   list-style-type: none; 
+}
+
+//My About
+
+.officer {
+  overflow: auto;
+  margin-bottom: 2em;
 }
 
 .officer-title {
@@ -311,7 +319,7 @@ pre code.hljs {
 			font-size: 0.9em;
 		}
 		.post-categories {
-			@include span-columns(6);
+			// @include span-columns(6);
 			margin-right: 0;
 			text-align: right;
 			font-size: 0.9em;
