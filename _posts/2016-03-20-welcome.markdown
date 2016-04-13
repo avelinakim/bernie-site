@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome!"
+event-date:   2016-03-20 08:43:59
+author: SMC for Bernie Club
+categories: news
+---
+
+Welcome to our club! We're very excited to get our club going and spread the
+word about Bernie Sanders. We are also excited about getting to know our members
+so we can form a strong community and utilize our strengths in order to get our message heard 
+and get Bernie Sanders elected president in 2016. Please fill our this [form][1] so we can get to 
+know you and we can update you on our club activity. 
+
+[1]: http://goo.gl/forms/BcbbLufTNb
