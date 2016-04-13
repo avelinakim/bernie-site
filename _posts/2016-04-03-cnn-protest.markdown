@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "CNN Protest"
-date:   2016-04-3 12:00:00PM
 author: SMC for Bernie Club
+event-date: 2016-04-03 12:00:00PM
 categories: past
 tags: lorem ipsum
 ---
