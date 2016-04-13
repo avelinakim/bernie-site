@@ -1,0 +1,23 @@
+---
+layout: page
+title: News
+permalink: /news/
+---
+
+<div class="news-container">
+
+  <div>
+    <ul class="news-list-post">
+      {% for post in site.categories.news %}
+      <li>
+        <strong>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </strong>
+        <span class="post-date">- {{ post.event-date | date_to_long_string }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+
+</div>

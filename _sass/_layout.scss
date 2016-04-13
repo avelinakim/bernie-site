@@ -221,6 +221,14 @@ pre code.hljs {
   margin-bottom: 2em;
 }
 
+.news-container {
+  text-align: center;
+}
+
+.news-list-post {
+  list-style-type: none;
+}
+
 .event-container {
   @include outer-container;
 }
