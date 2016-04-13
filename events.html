@@ -6,32 +6,30 @@ permalink: /events/
 
 <div class="event-container">
   <div class="event-list">
-  <h2>Past</h2>
-      <!--<p class="desc"><em>These are past events</em></p>-->
-  <ul class="event-post-list">
-  {% for post in site.categories.past %}
-    <li>
-      <strong>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </strong>
-      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
-    </li>
-  {% endfor %}
-  </ul>
+    <h2>Past</h2>
+    <ul class="event-post-list">
+      {% for post in site.categories.past %}
+      <li>
+        <strong>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </strong>
+        <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 
   <div class="event-list">
-  <h2>Upcoming</h2>
-  <!--<p class="desc"><em>These are upcoming events</em></p>-->
-  <ul class="event-post-list">
-  {% for post in site.categories.upcoming %}
-    <li>
-      <strong>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </strong>
-      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
-    </li>
-  {% endfor %}
-  </ul>
+    <h2>Upcoming</h2>
+    <ul class="event-post-list">
+      {% for post in site.categories.upcoming %}
+      <li>
+        <strong>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </strong>
+        <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 </div>

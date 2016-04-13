@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Fight for $15"
+title:  "Fight for 15"
 date:   2016-04-14 08:30:00AM
 author: SMC for Bernie Club
 categories: upcoming
-tags: lorem ipsum
 ---
 
 Hello team!
