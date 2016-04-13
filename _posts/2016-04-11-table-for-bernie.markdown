@@ -3,7 +3,7 @@ layout: post
 title:  "Table for Bernie"
 event-date:   2016-04-18 08:43:59
 author: SMC for Bernie Club
-categories: Upcoming
+categories: upcoming
 ---
 
 Hello team!

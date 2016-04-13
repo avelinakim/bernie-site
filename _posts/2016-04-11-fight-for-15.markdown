@@ -3,7 +3,7 @@ layout: post
 title:  "Fight for $15"
 event-date:   2016-04-14 08:30:00AM
 author: SMC for Bernie Club
-categories: Upcoming
+categories: upcoming
 tags: lorem ipsum
 ---
 
