@@ -9,7 +9,7 @@ exclude:
 
 # Site settings
 title: "Santa Monica College Students <br> for Bernie Sanders"
-title-footer: "Santa Monica College Students for Bernie Sanders" 
+title-footer: "Santa Monica College Students for Bernie Sanders"
 subtitle: "SMC Chapter of College Students for Bernie Sanders"
 email: SmcforBernie@gmail.com
 name: Bernie Bernie Bernie
@@ -49,12 +49,6 @@ disqus_shortname: bencentra
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  # - name: Twitter
-  #   icon: twitter
-  #   username: TheBenCentra
-  #   url: https://twitter.com/TheBenCentra
-  #   desc: Follow me on Twitter
-  #   share: false
 
   - name: Facebook
     icon: facebook
@@ -114,22 +108,22 @@ officers:
     position: President
     description: SMC for Bernie fb group
     img: "/assets/imgs/profile-placeholder.gif"
-    
+
   - name: Avelina Kim
     position: Vice President
     description: SMC for Bernie fb group
     img: "/assets/imgs/avelina.jpg"
-    
+
   - name: Daira Bustos
     position: Treasurer
     description: SMC for Bernie fb group
     img: "/assets/imgs/profile-placeholder.gif"
-    
+
   - name: Leo Martinez
     position: Voter Registration Coordinator
     description: SMC for Bernie fb group
     img: "/assets/imgs/profile-placeholder.gif"
-    
+
   - name: Stephanie Mendez
     position: Outreach Director
     description: SMC for Bernie fb group
