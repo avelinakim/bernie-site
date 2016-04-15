@@ -9,8 +9,7 @@ categories: upcoming
 <div class="post-info">
 <b>Date:</b>  April 19 <br>
 <b>Time:</b>  1pm - 5:45pm <br>
-<b>Location:</b> 1662 W Martin Luther King Jr Blvd Los Angeles, CA 90062 
-(SE corner of W. Martin Luther King Jr. Blvd./S. Western Ave.)<br>
+<b>Location:</b> 1662 W Martin Luther King Jr Blvd Los Angeles, CA 90062 <br>
 <a href="https://www.facebook.com/events/1733075063603979/"> Facebook Event </a> 
 </div>
 
@@ -37,7 +36,7 @@ phone banking already please be sure to continue doing so leading up to our even
 Megan Harris – Regional Field Director, SoCal Bernie 2016
 
 
-####LIVE MUSIC PERFORMANCES BY:####
+#### LIVE MUSIC PERFORMANCES BY:####
 
 • [VISION][3] 
 
@@ -49,7 +48,7 @@ Megan Harris – Regional Field Director, SoCal Bernie 2016
 
 • [KOR ELEMENT][6] 
 
-####LIVE TRAININGS, WORKSHOPS AND MORE!!!####
+#### LIVE TRAININGS, WORKSHOPS AND MORE!!!####
 
 • Phone Banking • Canvassing • Voter Registration • Congressional Districts Delegate Workshop
 
@@ -57,7 +56,7 @@ Megan Harris – Regional Field Director, SoCal Bernie 2016
 
 • Event Live Streaming – Virtual Reality Capture! • Flash Mob Music Video Shoot • Honk for Bernie!
 
-####ADDITIONAL INFORMATION:####
+#### ADDITIONAL INFORMATION:####
 
 Please let’s be the **REVOLUTION** we wish to see!!! Treat one another with respect and courtesy! Treat our
 environment with respect; let’s clean up after ourselves!
