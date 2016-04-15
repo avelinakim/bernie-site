@@ -3,25 +3,16 @@ layout: post
 title:  "Fight for $15"
 event-date:   2016-04-14 08:30:00AM
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 ---
 
 <div class="post-info">
 <b>Date:</b>  April 14th <br>
 <b>Time:</b>  8:30am <br>
 <b>Location:</b>  Santa Monica College, behind the library on Pearl<br>
-<a href="https://www.facebook.com/events/136764640054849/"> Facebook Event </a> 
+<a href="https://www.facebook.com/events/136764640054849/"> Facebook Event </a> <br>
+<a href="https://www.facebook.com/media/set/?set=oa.577968992365390&type=1"> Photos </a>
 </div>
-
-
-
-
-**IMPORTANT INFORMATION:**
-SMC Students for Bernie Sanders will stand together and ride together to the march. There will be a bus leaving from SMC at 9am. Please arrive at SMC by 8:30. The bus will arrive behind the library, on Pearl street, in front of campus police.
-
-From there, we will go to Dowtown LA (3rd and Grand) and march to the McDonnalds on 7th and Alameda.
-
-PLEASE RSVP [on the facebook event][1] so I can get the right amount of transportation
 
 **WHAT WILL HAPPEN ON APRIL 14**
 That’s why on April 14, 2016 – the eve of Tax Day – workers in the Fight for $15 in the U.S. and around the globe are coming together to hold McDonalds and other corporations accountable, demand $15 and union rights and call for an end to tax evasion and poverty wages.
@@ -54,5 +45,4 @@ Consider the difference between a hard-working undocumented immigrant mother and
 **MCDONALD’S LEADS THE RACE TO THE BOTTOM**
 McDonald’s is leading this race to the bottom. The business model pioneered and perfected by McDonald’s – one of low wages, tax avoidance and no accountability – is now what we find in every industry -- like home care, child care, airports, universities and more. McDonald’s has led this race to the bottom that’s crushing communities and workers in every corner of our economy. By taking the fight to McDonald’s and holding them accountable, we’re standing up for workers in every industry to change our economy once and for all.
 
-
-[1]: https://www.facebook.com/events/136764640054849/
+<img src="{{ site.baseurl }}/assets/imgs/fight-for-15.jpg">
