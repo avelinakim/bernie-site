@@ -8,8 +8,11 @@ Bernie's campaign is powered by the people, NOT Billionaires. That is why we hav
 contribute in any way we can. Every dollar counts... (Facts about Bernie's contributors)
 
 
-Please consider donating today.
+<div style="text-align: center;">Please consider donating today: 
+  <form action="https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=homepage_main_nav">
+    <input type="submit" value="Donate">
+  </form>
+</div>
 
-[DONATE][1]
 
-[1]: https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=homepage_main_nav
+
