@@ -38,8 +38,8 @@ permalink: /about/
   <hr>
   
   <div class="about-section">
-     <img src="{{ site.baseurl }}/assets/imgs/Bernie 1st meeting.jpg" title="first-meeting" class="image">
-     <div class="content">
+     <img src="{{ site.baseurl }}/assets/imgs/fight-for-15.jpg" title="first-meeting" class="image">
+     <div class="about-content">
      <h1> About Us </h1>
      <p> What we do & why we do it. What we do & why we do it. What we do & why we do it. What we do & why we do it.</p>
      </div> 

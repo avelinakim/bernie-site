@@ -108,24 +108,33 @@ officers:
   - name: Alfredo Gama
     position: President
     description: SMC for Bernie fb group
-    img: "/assets/imgs/profile-placeholder.gif"
+    img: "/assets/imgs/alfredo.jpg"
 
   - name: Avelina Kim
     position: Vice President
-    description: SMC for Bernie fb group
+    description: "I am in my second year of studying Computer Science at SMC. My hobbies include 
+    playing League and programming. I support Bernie Sanders because he is the 
+    only candidate who is not owned by corporations and who actually represents the American people. 
+    He fights for women, LGBTQ, minorities, the poor, and the environment. He is also the best candidate
+    for the economy because he will redistribute the wealth in America, increasing the velocity of money.
+    Bernie cannot do it alone, he needs the American people to stand together." 
     img: "/assets/imgs/avelina.jpg"
 
   - name: Daira Bustos
     position: Treasurer
     description: SMC for Bernie fb group
-    img: "/assets/imgs/profile-placeholder.gif"
+    img: "/assets/imgs/daira.jpg"
 
   - name: Leo Martinez
     position: Voter Registration Coordinator
-    description: SMC for Bernie fb group
-    img: "/assets/imgs/profile-placeholder.gif"
+    description: "I am a History and Anthropology major. I have been at SMC for two years. I enjoy 
+    watching movies, playing video games and reading JSTOR articles. I support Bernie because he is a 
+    continuation of Theordore Roosevelt, Franklin Roosevelt and Lyndon B. Johnson, progressive icons who
+    defied the odds and pushed an agenda for the American people and not corporations. I support Bernie 
+    because he is the real deal."
+    img: "/assets/imgs/leo.jpg"
 
   - name: Stephanie Mendez
     position: Outreach Director
     description: SMC for Bernie fb group
-    img: "/assets/imgs/profile-placeholder.gif"
+    img: "/assets/imgs/stephanie.jpg"

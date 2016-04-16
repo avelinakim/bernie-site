@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March and Rally"
+title:  "April Rally"
 event-date:   2016-04-17 08:43:59
 author: SMC for Bernie Club
 categories: upcoming

@@ -288,7 +288,12 @@ pre code.hljs {
   }
 }
 
+.about-content {
+  
+}
+
 .content {
+  @include span-columns(6);
   text-align: center;
 
 	.wrapper {
