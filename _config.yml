@@ -107,7 +107,16 @@ protocols:
 officers:
   - name: Alfredo Gama
     position: President
-    description: SMC for Bernie fb group
+    description: "I am a second year student at Santa Monica College. My interests are very diverse. 
+    They  include Political Economy and Biochemistry. I am organizing for Bernie because I understand
+     that this is not just a moment, but a movement. It's a movement composed of the most energetic 
+     young people in the country. I understand that we, as millennials, must partake in the change we 
+     want to see. Bernie Sanders has introduced many young people into the political process. I 
+     organized this group to take Bernie's message around California, but also beyond the campaign 
+     season. When Bernie becomes our 45th President of the United States, the movement will continue. 
+     The fight to end income inequality, to combat climate change, to end racial disparity, the 
+     persecution of undocumented immigrants and many more battles will continue. Because when we fight,
+     win!"
     img: "/assets/imgs/alfredo.jpg"
 
   - name: Avelina Kim
@@ -116,7 +125,7 @@ officers:
     playing League and programming. I support Bernie Sanders because he is the 
     only candidate who is not owned by corporations and who actually represents the American people. 
     He fights for women, LGBTQ, minorities, the poor, and the environment. He is also the best candidate
-    for the economy because he will redistribute the wealth in America, increasing the velocity of money.
+    for the economy because he will redistribute wealth in America, increasing the velocity of money.
     Bernie cannot do it alone, he needs the American people to stand together." 
     img: "/assets/imgs/avelina.jpg"
 
@@ -136,5 +145,11 @@ officers:
 
   - name: Stephanie Mendez
     position: Outreach Director
-    description: SMC for Bernie fb group
+    description: "I am a political science major and have been at SMC for one year. I will soon be the future
+    Director of Instructional Support. I am on the SMC Speech and Debate team, and have won against the 
+    Japanese National debate team as well as win gold at PSCFA Champs. My hobbies include debate as well as 
+    reading. I believe in Bernie Sanders because I truly believe he is a man of the people. During one of his
+    rallies, black lives matter protesters interjected and spoke, AND HE LISTENED. Not only do I believe 
+    he is a great candidate, but the political revolution he's encouraged has lead to great outcomes in 
+    finding solutions and being politically active."
     img: "/assets/imgs/stephanie.jpg"

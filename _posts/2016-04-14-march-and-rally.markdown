@@ -3,7 +3,7 @@ layout: post
 title:  "April Rally"
 event-date:   2016-04-17 08:43:59
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 ---
 
 <div class="post-info">
@@ -76,3 +76,5 @@ Rohan Jain, Jake Vreeland, Amber Blomgren, Max Holm, Jen Danielle, Jean Choi
 [5]: www.facebook.com/flowerpunksfpx
 [6]: www.korelement.net
 [7]: http://bit.ly/TeamBernieLA
+
+<img src="{{site.baseurl}}/assets/imgs/april-rally-carpool.jpg">

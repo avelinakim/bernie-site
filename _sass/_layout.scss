@@ -208,6 +208,7 @@ pre code.hljs {
   li.nav-link {
   	a {
 	    display: inline-block;
+      font-weight: bold;
       color: #fff;
 	    @include media ($tablet) {
 	      padding-right: 1.5em;
@@ -295,6 +296,7 @@ pre code.hljs {
 .content {
   @include span-columns(6);
   text-align: center;
+  width: 65%;
 
 	.wrapper {
 		@include outer-container;
