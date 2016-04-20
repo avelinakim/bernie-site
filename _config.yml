@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://avelinakim.github.io" # the base hostname & protocol for your site
-cover: "/assets/imgs/club-awarenessv3.jpg"
+cover: "/assets/imgs/bernie-stage.jpg"
 logo: "/assets/imgs/Sanders-logo-white.png"
 permalink: "/:categories/:title/"
 
