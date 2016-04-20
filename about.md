@@ -41,7 +41,7 @@ permalink: /about/
      <img src="{{ site.baseurl }}/assets/imgs/fight-for-15.jpg" title="first-meeting" class="image">
      <div class="about-content">
      <h1> About Us </h1>
-     <p> What we do & why we do it. What we do & why we do it. What we do & why we do it. What we do & why we do it.</p>
+     <p> SMC Chapter of College Students for Bernie Sanders</p>
      </div> 
   </div>
  
