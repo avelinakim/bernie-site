@@ -8,7 +8,7 @@ permalink: /about/
   <div class="General-Info">
     <h1> General Info: </h1>
       <div class="Info-Elements">
-      <b>Meetings:</b> Fridays 11:15am-12:45pm <br>
+      <b>Meetings:</b> Fridays 11:15am-12:45pm | Room SCI 157 <br>
       <b>Contact: </b>
         <div class="site-contact">
         <ul class="social-media-list">

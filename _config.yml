@@ -122,11 +122,12 @@ officers:
   - name: Avelina Kim
     position: Vice President
     description: "I am in my second year of studying Computer Science at SMC. My hobbies include 
-    playing League and programming. I support Bernie Sanders because he is the 
+    playing League of Legends and programming. I support Bernie Sanders because he is the 
     only candidate who is not owned by corporations and who actually represents the American people. 
-    He fights for women, LGBTQ, minorities, the poor, and the environment. He is also the best candidate
-    for the economy because he will redistribute wealth in America, increasing the velocity of money.
-    Bernie cannot do it alone, he needs the American people to stand together." 
+    He fights for women, the LGBTQ community, minorities, the poor, and the environment, not just the 
+    top 1%. He is also the best candidate for the economy because he will redistribute wealth in 
+    America, increasing the velocity of money. But Bernie cannot do it alone, he needs the American
+    people to stand together and take action." 
     img: "/assets/imgs/avelina.jpg"
 
   - name: Daira Bustos
