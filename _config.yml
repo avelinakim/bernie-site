@@ -109,14 +109,14 @@ officers:
     position: President
     description: "I am a second year student at Santa Monica College. My interests are very diverse. 
     They  include Political Economy and Biochemistry. I am organizing for Bernie because I understand
-     that this is not just a moment, but a movement. It's a movement composed of the most energetic 
-     young people in the country. I understand that we, as millennials, must partake in the change we 
-     want to see. Bernie Sanders has introduced many young people into the political process. I 
-     organized this group to take Bernie's message around California, but also beyond the campaign 
-     season. When Bernie becomes our 45th President of the United States, the movement will continue. 
-     The fight to end income inequality, to combat climate change, to end racial disparity, the 
-     persecution of undocumented immigrants and many more battles will continue. Because when we fight,
-     win!"
+    that this is not just a moment, but a movement. It's a movement composed of the most energetic 
+    young people in the country. I understand that we, as millennials, must partake in the change we 
+    want to see. Bernie Sanders has introduced many young people into the political process. I 
+    organized this group to take Bernie's message around California, but also beyond the campaign 
+    season. When Bernie becomes our 45th President of the United States, the movement will continue. 
+    The fight to end income inequality, to combat climate change, to end racial disparity, the 
+    persecution of undocumented immigrants and many more battles will continue. Because when we fight,
+    we win!"
     img: "/assets/imgs/alfredo.jpg"
 
   - name: Avelina Kim
@@ -132,7 +132,12 @@ officers:
 
   - name: Daira Bustos
     position: Treasurer
-    description: 
+    description: I am a first year student at Santa Monica College studying Communication Studies intended
+    for law. I am a current member of the SMC Debate Team where I learn and discuss issues facing society.
+     I am very committed to justice for all humans in this country, which is why I am currently interning
+    for Public Council working in the immigration department. In this capacity, I help undocumented 
+    immigrants and immigrants seeking asylum and a better life in this country. I support Bernie Sanders
+    because his message resonates with me as a young woman of color.
     img: "/assets/imgs/daira.jpg"
 
   - name: Leo Martinez
