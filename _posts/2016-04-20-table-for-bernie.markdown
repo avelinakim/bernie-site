@@ -3,7 +3,7 @@ layout: post
 title:  "Table for Bernie"
 event-date:   2016-04-18 08:43:59
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 ---
 
 <div class="post-info">
@@ -25,4 +25,6 @@ least half support Bernie. And that's a very low estimate.
 Volunteers are also voters. The power is in the numbers.
 
 If you can't make it: I need help printing out flyers. 
+
+<img src="{{site.baseurl}}/assets/imgs/job-fair-table.jpg">
 
