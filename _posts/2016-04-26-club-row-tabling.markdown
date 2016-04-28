@@ -11,7 +11,7 @@ categories: upcoming
 <b>Time:</b>  9am-1pm <br>
 <b>Location:</b>  Santa Monica College, the Quad <br>
 <b>RSVP:</b> <a href="https://www.facebook.com/groups/556637134498576/permalink/582377398591216/"> Wednesday </a>, 
-<a href=""> Thursday </a> 
+<a href="https://www.facebook.com/groups/556637134498576/permalink/582714371890852/"> Thursday </a> 
 </div>
 
 We need members to help with tabling. During tabling members will recuit members to 
