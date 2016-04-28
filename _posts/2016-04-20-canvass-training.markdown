@@ -4,6 +4,10 @@ title:  "Canvass Training"
 event-date:   2016-04-21 08:43:59
 author: SMC for Bernie Club
 categories: past
+excerpt: "Canvassing is crucial to get people's support for Bernie. 
+Campaign local field organizer, Christopher Fleury, will be hosting an organization meeting:
+Westside Canvass Host Organization Meeting and Training
+“To win this campaign, all of us must be deeply involved.” –  Bernie Sanders." 
 ---
 
 <div class="post-info">
@@ -14,7 +18,7 @@ categories: past
 </div>
 
 Canvassing is crucial to get people's support for Bernie. 
-Campaign local field organizer,Christopher Fleury, will be hosting an organization meeting:
+Campaign local field organizer, Christopher Fleury, will be hosting an organization meeting:
 
 Westside Canvass Host Organization Meeting and Training
 

@@ -4,6 +4,11 @@ title:  "April Rally"
 event-date:   2016-04-17 08:43:59
 author: SMC for Bernie Club
 categories: past
+excerpt: "Come one, come all! You are cordially invited to stand up and let your voices be heard and your 
+presence felt. Stand in solidarity with the politcal revolution happening here in Los Angeles and with 
+our brothers and sisters across America, in support of our main man Bernie Sanders. We stand in unity with 
+all the Sanders support groups across LA! There are no divisions; we are all one and in this together, for 
+the candidacy, the presidency and beyond! " 
 ---
 
 <div class="post-info">

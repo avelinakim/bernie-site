@@ -4,6 +4,7 @@ title:  "Fight for $15"
 event-date:   2016-04-14 08:30:00AM
 author: SMC for Bernie Club
 categories: past
+excerpt: "At this critical moment in American history, workers in every industry need $15/hour and union rights more than ever. A massive, largest-ever mobilization of underpaid workers on April 14, 2016 will send a strong message to large corporations and elected leaders that we’re not stopping until we win. " 
 ---
 
 <div class="post-info">

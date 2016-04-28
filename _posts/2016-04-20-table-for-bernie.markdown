@@ -4,6 +4,10 @@ title:  "Table for Bernie"
 event-date:   2016-04-18 08:43:59
 author: SMC for Bernie Club
 categories: past
+excerpt: "Tabling will be to recruit members to SMC Students For Bernie Sanders. We don't have the 
+money to buy elections, but we do have thousands of SMC students that do not know SMC
+Students for Bernie Sanders Club exists. I know that out of 33,000 students at SMC, at
+least half support Bernie. " 
 ---
 
 <div class="post-info">
@@ -16,7 +20,6 @@ categories: past
 May 23rd is going to be here before we know it. That's the last day to register to vote
 in order to vote in the June 7th primary here in California. We need to step up our ground
 game before it's too late. Please choose what days you can table the week of April 18.
-
 
 Tabling will be to recruit members to SMC Students For Bernie Sanders. We don't have the 
 money to buy elections, but we do have thousands of SMC students that do not know SMC

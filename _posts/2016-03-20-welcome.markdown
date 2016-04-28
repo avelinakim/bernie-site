@@ -4,6 +4,10 @@ title:  "Welcome!"
 event-date:   2016-03-20 08:43:59
 author: SMC for Bernie Club
 categories: news
+excerpt: "Welcome to our club! We're very excited to get our club going and spread the
+word about Bernie Sanders. We are also excited about getting to know our members
+so we can form a strong community and utilize our strengths in order to get our message heard 
+and get Bernie Sanders elected president in 2016."
 ---
 
 Welcome to our club! We're very excited to get our club going and spread the

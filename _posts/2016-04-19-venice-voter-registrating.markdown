@@ -4,6 +4,11 @@ title:  "Venice Voter Registration"
 event-date:   2016-04-20 08:43:59
 author: SMC for Bernie Club
 categories: past
+excerpt: "
+Zoe Bachar will be heading to Venice Beach to register people to vote in the 4/20 festivities. 
+We must reach every corner of town and register folks to vote and spread Bernie's message on
+decriminalization of Marijuana. She can take three other members in her car. She will be
+leaving from SMC at 1pm.  " 
 ---
 
 <div class="post-info">

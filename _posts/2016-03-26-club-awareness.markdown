@@ -4,6 +4,9 @@ title:  "Club Awareness Day"
 event-date:   2016-03-26 11:00:00AM
 author: SMC for Bernie Club
 categories: past
+excerpt: "Santa Monica College Inter-Club Council event with the purpose of advertising and spreading awareness
+of clubs to students. Members can volunteer to promote our club Santa Monica College Students for
+Bernie Sanders, give information about our club and introduce Bernie Sanders.  "
 ---
 
 <div class="post-info">

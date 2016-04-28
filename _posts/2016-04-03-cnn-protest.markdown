@@ -4,6 +4,9 @@ title:  "CNN Protest"
 author: SMC for Bernie Club
 event-date: 2016-04-03 12:00:00PM
 categories: past
+excerpt: "A PEACEFUL sit-in outside of the CNN building in Hollywood CA to end mainstream media bias, especially against Bernie Sanders.
+Please bring your positive attitudes and appropriate signs that convey what we want-
+Equal and fair coverage of all candidates! "
 ---
 
 <div class="post-info">

@@ -4,6 +4,9 @@ title:  "Club Shirts"
 event-date:   2016-04-8 08:43:59
 author: SMC for Bernie Club
 categories: news
+excerpt: "We're getting shirts made. Yayy! 
+We have a limited amount so priority will go to the members that are most involved. 
+Involvement includes meetings, events, and other club activity." 
 ---
 
 We're getting shirts made. Yayy! 

@@ -4,6 +4,10 @@ title:  "CA-33 Delegate Caucus"
 event-date:   2016-05-01 08:43:59
 author: SMC for Bernie Club
 categories: upcoming
+excerpt: "Join us in this very important political process in which we elect delegates to represent California 
+District 33. It is crucial that we elect delegates who will support Bernie Sanders at the 
+Democratic National Convention and fight for our cause. Please check the map in this post to see if 
+you're a part of CA-33." 
 ---
 
 <div class="post-info">

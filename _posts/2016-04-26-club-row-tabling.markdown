@@ -4,6 +4,11 @@ title:  "Club Row Tabling"
 event-date:   2016-04-28 08:43:59
 author: SMC for Bernie Club
 categories: upcoming
+excerpt: "Tomorrow is a crucial day for tabling. It is our greatest opportunity to reach out to a HUGE 
+percentage of the students at SMC. During tabling members will recuit new members to 
+our club, introduce students to Bernie Sanders, give information about voting, and register 
+students to vote. There are 33,000 students at SMC that we need to reach out to, so we need all 
+the help we can get."
 ---
 
 <div class="post-info">
@@ -14,7 +19,8 @@ categories: upcoming
 <a href="https://www.facebook.com/groups/556637134498576/permalink/582714371890852/"> Thursday </a> 
 </div>
 
-We need members to help with tabling. During tabling members will recuit members to 
+Tomorrow is a crucial day for tabling. It is our greatest opportunity to reach out to a HUGE 
+percentage of the students at SMC. During tabling members will recuit new members to 
 our club, introduce students to Bernie Sanders, give information about voting, and register 
 students to vote. 
 
