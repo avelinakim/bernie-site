@@ -3,7 +3,7 @@ layout: post
 title:  "Weekend Canvassing"
 event-date:   2016-04-23 08:43:59
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 ---
 
 <div class="post-info">
@@ -25,9 +25,6 @@ canvassing efforts!
 
 Sign up for as many shifts as you'd like:
 
-**Shift 1:** 9:00AM – 12:00PM
+**Shift 1:** 9:00AM – 12:00PM | **Shift 2:** 12:00PM – 3:00PM | **Shift 3:** 3:00PM – 6:00PM
 
-**Shift 2:** 12:00PM – 3:00PM
-
-**Shift 3:** 3:00PM – 6:00PM
-
+<img src="{{site.baseurl}}/assets/imgs/weekend-action-canvassing.jpg">

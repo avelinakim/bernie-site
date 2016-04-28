@@ -14,6 +14,7 @@ we can accomplish together.
 
 
 <div style="text-align: center;">Please consider donating today: 
+
   <form action="https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=homepage_main_nav">
     <input type="submit" value="Donate">
   </form>

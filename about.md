@@ -42,7 +42,9 @@ permalink: /about/
      <img src="{{ site.baseurl }}/assets/imgs/fight-for-15.jpg" title="first-meeting" class="image">
      <div class="about-content">
      <h1> About Us </h1>
-     <p> SMC Chapter of College Students for Bernie Sanders</p>
+     <p> Santa Monica College Students for Bernie Sanders is a diverse group of students organizing
+     to drastically change the political system in America. We believe that Senator Bernie Sanders 
+     is the best candidate to help bring about that change.</p>
      </div> 
   </div>
  
