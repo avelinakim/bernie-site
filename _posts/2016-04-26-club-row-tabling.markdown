@@ -3,7 +3,7 @@ layout: post
 title:  "Club Row Tabling"
 event-date:   2016-04-28 08:43:59
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 excerpt: "Tomorrow is a crucial day for tabling. It is our greatest opportunity to reach out to a HUGE 
 percentage of the students at SMC. During tabling members will recuit new members to 
 our club, introduce students to Bernie Sanders, give information about voting, and register 
@@ -31,3 +31,5 @@ the information.
 
 **We need at least FIVE PEOPLE per shift. We have 219 members on this group. 
 We can do this. Just choose one, or all of them. Bernie Until the End**
+
+<img src="{{ site.baseurl }}/assets/imgs/club-row-table.jpg" title="CNN Protest" class="image">
