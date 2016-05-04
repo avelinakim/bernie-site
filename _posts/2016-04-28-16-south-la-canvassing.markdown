@@ -25,5 +25,13 @@ real people about how this country belongs to all of us, not just the billionair
 starts with us knocking on doors together.
 
 Alfredo Gama is hosting a canvassing event in his home in South LA. This is an important opportunity to 
-reach out to district There are four seperate shifts you
+reach out to this district. This community is 85% Mexican/Indigenous/Classified as Hispanic. This means
+that Hillary campaign is taking this community for granted. Today, many we spoke to were leaning towards
+Hillary because that's the only candidate they knew. When we spoke to them about Bernie, their hearts
+and minds changed. Some volunteered to canvass.
+
+There are four seperate shifts you
 can sign-up for. Two on Saturday (10am-1pm and 1-4pm) and two on Sunday (10am-1pm and 1-4pm). 
+
+<img src="{{site.baseurl}}/assets/imgs/south-la-canvass.jpg">
+
