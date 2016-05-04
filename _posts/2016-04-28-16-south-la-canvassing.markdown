@@ -3,7 +3,7 @@ layout: post
 title:  "South LA Canvassing"
 event-date:   2016-04-30 08:43:59
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 excerpt: "You're invited to join your neighbors and supporters to knock on the doors of supporters and undecided
 voters. We'll provide you with a script, a list of voters that you'll be talking to, and a map of where
 to go. We'll also train you to use your time effectively out in the field. You'll be able to talk to
