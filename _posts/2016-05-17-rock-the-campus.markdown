@@ -3,7 +3,7 @@ layout: post
 title:  "Rock the Campus"
 event-date:   2016-05-17 08:43:59
 author: SMC for Bernie Club
-categories: upcoming
+categories: past
 excerpt: "Come help register fellow Santa Monica College Students to vote before the deadine May 23rd, with special 
 celebrity guests, Kendrick Sampson, Max Carver, and Charlie Carver. Let's Rock the campus for Bernie!"
 ---
